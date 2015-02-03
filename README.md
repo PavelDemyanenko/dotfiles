@@ -153,7 +153,7 @@ Further details are in the `bash_prompt` file.
 
 Screenshot:
 
-![](http://i.imgur.com/DSJ1G.png)
+![](https://monosnap.com/file/sUsJPRPyKhUCTFP1tXIfZmJyUSf216.png)
 
 ### Local/private Bash and Vim configuration
 
